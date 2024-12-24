@@ -1,0 +1,26 @@
+<svg width="695" height="464" viewBox="0 0 695 464" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-55" y="-76" width="1440" height="1138">
+        <rect x="-55" y="-76" width="1440" height="1138" fill="url(#pattern0)"/>
+    </mask>
+    <g mask="url(#mask0_0_1)">
+        <rect x="-4" y="-7" width="699" height="482" fill="url(#paint0_linear_0_1)"/>
+    </g>
+    <g filter="url(#filter0_f_0_1)">
+        <circle cx="347" cy="535" r="226" fill="#366AFE"/>
+    </g>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.0072449" height="0.00916754">
+            <use xlink:href="#image0_0_1" transform="scale(7.2449e-05 9.16754e-05)"/>
+        </pattern>
+        <filter id="filter0_f_0_1" x="-179" y="9" width="1052" height="1052" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_0_1"/>
+        </filter>
+        <linearGradient id="paint0_linear_0_1" x1="345" y1="-223" x2="451.306" y2="305.101" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#2D3249"/>
+            <stop offset="1" stop-color="#00050D"/>
+        </linearGradient>
+        <image id="image0_0_1" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEmSURBVHgB7dnRTcMwEAbgSyboCO0GjMAGdANgAkagG8AmMAIbwAbpBnQD4xOR4AEJGrsVD98nXSL58X5FF9sRPyilrGrd1XqqNZUv07x2HZxHbfa21nv53SSYE6sNfizH2wX9ZWPLcg9BP7WhN6XdNmg25KM2c6qvdbQ51NoMw3AIFhvz64j2MNKqliHfaKx1Ff1cBk0ykHX0cxE0GXIaR0d1hgzBYmPwr2Qg++jnLWiSgfRs4j5okoG8RD/PQZMc6rl/yI3hKtrs6zzfBE3GeWd9G+12QT95QFiWuw/6y8aW4znpPaXyefI7/SGIvMRywnsuczB5Xfv6LYRpXsvr3dafAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAADgfD4ANYTqnZuXjIsAAAAASUVORK5CYII="/>
+    </defs>
+</svg>
